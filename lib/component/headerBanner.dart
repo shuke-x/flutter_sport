@@ -121,7 +121,7 @@ class _HeadBannerState extends State<HeadBanner> {
                                     color: Colors.white, fontSize: 14),
                               ),
                               style: ElevatedButton.styleFrom(
-                                primary:
+                                backgroundColor:
                                     Color.fromRGBO(54, 255, 255, 0.82), // 背景颜色
                                 shape: RoundedRectangleBorder(
                                     borderRadius:
